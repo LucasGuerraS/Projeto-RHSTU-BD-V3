@@ -1,0 +1,19 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<Relation class="oracle.dbtools.crest.model.design.logical.Relation" name="FK_RHSTU_PAG_CARTAO_DEB" directorySegmentName="seg_0" id="E39CEF98-86CE-A38A-0E55-442C6AC8E5FE">
+<createdBy>User</createdBy>
+<createdTime>2022-05-10 17:43:44 UTC</createdTime>
+<ownerDesignName>Projeto_RHSTU</ownerDesignName>
+<engineerTo>
+<item key="BD52EFD7-AD57-1D29-FBCE-37428351E3D1" value="true"/>
+</engineerTo>
+<sourcePk>55F73CDA-78DE-9172-EC31-1DE605267B8F</sourcePk>
+<identifying>false</identifying>
+<optionalSource>true</optionalSource>
+<optionalTarget>false</optionalTarget>
+<sourceCardinality>1</sourceCardinality>
+<sourceEntity>4E669F69-BDAD-1338-53E6-A52CD1549F1D</sourceEntity>
+<targetCardinalityString>1</targetCardinalityString>
+<targetEntity>898A1D5C-902C-61FE-4F15-4CC04D6B86BF</targetEntity>
+<transferable>true</transferable>
+<deleteRule>NO ACTION</deleteRule>
+</Relation>
